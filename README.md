@@ -1,0 +1,1 @@
+I guess I wanted to have a setup script. But now I use NixOS so I (and other people if they want) can just use https://github.com/ChocolateLoverRaj/nixos-system-config to setup Chromebook stuff on Linux.
